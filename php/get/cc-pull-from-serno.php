@@ -1,10 +1,10 @@
 <?php
 
 /**
- * Intranet
+ * Calix CC API
  *
  *
- * @package    SandyNet Intranet
+ * @package    Fiber Management System
  * @author     Gregory Brewster <gbrewster@agoasite.com>
  * @copyright  (C)2016 City of Sandy
  *
