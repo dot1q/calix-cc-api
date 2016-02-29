@@ -13,7 +13,10 @@
 include_once("../config.php");
 
 
-$serno = $_GET['serno'];
+//$serno = $_GET['serno'];
+// Take in serno from argument
+$serno = $argv[1];
+
 
 if(strlen($serno) == 6){
 	$serialNumber = 'CXNK00'.$serno;
